@@ -6,12 +6,12 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: 522025710017@smail.nju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., The School of Intelligence Science and Technology, Nanjing University, 2025-2028.\
+B.E., Kuang Yaming Honors School, Nanjing University, 2018—2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+CV
 
